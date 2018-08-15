@@ -6,7 +6,7 @@ int main()
 { 
  float num1=5.26, x=5.26;
  int num2=8, y=x, z=8; 
- float w=z; // cambio de tipo implicito
+ float w=z; //  cambio de tipo implicito
  
 
  x=int(num1); // cambio explicito
